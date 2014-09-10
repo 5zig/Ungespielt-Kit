@@ -1,0 +1,5 @@
+name: Test
+version: 1
+main: eu.mc5zig.stream.Main
+commands:
+     ungespielt:
